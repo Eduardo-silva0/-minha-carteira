@@ -21,6 +21,8 @@
 
 ### 4. Criando os temas de cores da aplicação
 
+> yarn add @types/styled-components
+
 ### 5. Criando o header principal
 
 ### 6. Criando o componente Toggle
@@ -29,13 +31,11 @@
 
 ### 8. Criando o header de conteúdos
 
-### 9. Criando o componente de select e deixando o header
-content dinâmico
+### 9. Criando o componente de select e deixando o header content dinâmico
 
 ### 10. Criando a lista de movimentos financeiros
 
-### 11. Personalizando a scroll bar e mantendo o aside e o
-header fixo na rolagem
+### 11. Personalizando a scroll bar e mantendo o aside e o header fixo na rolagem
 
 ### 12. Refatorando o cartão de movimentos financeiros
 
