@@ -1,8 +1,9 @@
+import Layout from "./components/Layout"
+
 const Index = () => {
   return (
     <>
-      <p>roboto</p>
-      <button>test</button>
+      <Layout />
     </>
   );
 };
