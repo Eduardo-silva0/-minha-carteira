@@ -1,5 +1,5 @@
 import Head from 'next/head'
-// import '../styles/globals'
+import GlobalStyles from '../styles/GlobalStyles'
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -8,7 +8,11 @@ function MyApp({ Component, pageProps }) {
         <title>Minha Carteira</title>
         <link rel="icon" href="./assets/logo.svg" />
       </Head>
+
+      <GlobalStyles />
+
       <Component {...pageProps} />
+
 
     </>
   )

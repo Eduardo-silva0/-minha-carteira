@@ -10,3 +10,8 @@
 ## typescript
 
 > yarn add --dev typescript @types/react @types/node
+
+### 2. Styled Components - Instalação e estilos globais
+## Styled-components
+
+> yarn add styled-components

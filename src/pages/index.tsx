@@ -1,12 +1,10 @@
-import Header from 'next/head'
-
 const Index = () => {
   return (
-    <Header>
-      {/* <title>react</title> */}
-
-    </Header>
-  )
+    <>
+      <p>roboto</p>
+      <button>test</button>
+    </>
+  );
 };
 
 export default Index;
