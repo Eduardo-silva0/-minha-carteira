@@ -23,6 +23,9 @@
 
 > yarn add @types/styled-components
 
+> yarn add -D babel-plugin-styled-components
+
+
 ### 5. Criando o header principal
 
 ### 6. Criando o componente Toggle
