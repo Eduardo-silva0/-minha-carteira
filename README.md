@@ -25,7 +25,6 @@
 
 > yarn add -D babel-plugin-styled-components
 
-
 ### 5. Criando o header principal
 
 ### 6. Criando o componente Toggle
@@ -33,6 +32,8 @@
 > yarn add react-switch
 
 ### 7. Criando o Menu Lateral
+
+> yarn add react-icons
 
 ### 8. Criando o header de conteúdos
 
