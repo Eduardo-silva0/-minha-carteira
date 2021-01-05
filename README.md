@@ -30,6 +30,8 @@
 
 ### 6. Criando o componente Toggle
 
+> yarn add react-switch
+
 ### 7. Criando o Menu Lateral
 
 ### 8. Criando o header de conteúdos
