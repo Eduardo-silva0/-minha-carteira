@@ -17,98 +17,11 @@ const List: React.FC = () => {
 
       <Content>
         <HistoryFinanceCard
-          cardColor="#313862"
           tagColor="#E44c4e"
           title="Conta de luz"
           subtitle="06/1/2021"
           amount="R$ 150,00"
         />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-        <HistoryFinanceCard
-          cardColor="#313862"
-          tagColor="#E44c4e"
-          title="Conta de luz"
-          subtitle="06/1/2021"
-          amount="R$ 150,00"
-        />
-
-
       </Content>
     </Container>
   );
