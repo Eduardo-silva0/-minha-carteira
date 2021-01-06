@@ -40,6 +40,7 @@ export const MenuItemLink = styled.a`
 
   &:hover {
     opacity: .7;
+    transform: translateX(2px);
   };
 
   > svg {
