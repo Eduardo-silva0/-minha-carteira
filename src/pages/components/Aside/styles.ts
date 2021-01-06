@@ -36,7 +36,7 @@ export const MenuItemLink = styled.a`
   display: flex;
   align-items: center;
 
-  transition: opacity .3s;
+  transition: opacity transform .1s;
 
   &:hover {
     opacity: .7;
